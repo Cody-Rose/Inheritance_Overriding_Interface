@@ -5,7 +5,8 @@ package monster;
 
 /**
  This program was designed for me to practice my understanding of interfaces,
- inheritance and overriding. This program uses the Monster, Goblin and Troll classes.
+ inheritance and overriding. This program uses the Monster, Goblin, Troll and
+ BossMonster classes.
 */
 public class MonsterType {
     
